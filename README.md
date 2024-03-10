@@ -80,11 +80,11 @@ cargo run --bin my-redis-server
 
 可能对项目理解有帮助的架构图：
 
-![miniredis_01](media\miniredis_01.jpg)
+![miniredis_01](media/miniredis_01.jpg)
 
 ___
 
-![miniredis_02](media\miniredis_02.jpg)
+![miniredis_02](media/miniredis_02.jpg)
 
 #### 未完成的
 
