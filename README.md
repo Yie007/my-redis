@@ -4,7 +4,7 @@
 
 Fork自[此仓库](https://github.com/tokio-rs/mini-redis)，但做了些许修改，且具有较为完全的中文注释。
 
-**声明：**此项目的目的是学习使用`Tokio`编写应用。
+声明：此项目的目的是学习使用`Tokio`编写应用。
 
 ### 支持的命令
 
@@ -80,11 +80,11 @@ cargo run --bin my-redis-server
 
 可能对项目理解有帮助的架构图：
 
-![miniredis_01](F:\Vscode\Vscode files\Rust\my-redis\README.assets\miniredis_01.jpg)
+![miniredis_01](media\miniredis_01.jpg)
 
 ___
 
-![miniredis_02](F:\Vscode\Vscode files\Rust\my-redis\README.assets\miniredis_02.jpg)
+![miniredis_02](media\miniredis_02.jpg)
 
 #### 未完成的
 
